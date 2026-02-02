@@ -14,7 +14,7 @@ end
 ### How to use
 ```ruby
 # Initialize record
-Post.🤰(titie: "The start of something big")
+Post.🤰(title: "The start of something big")
 
 # Create new record
 Post.👶(title: "This is so much cooler")
