@@ -1,4 +1,4 @@
-# tired of rails not being 😎🆒 enough?
+# Looking for a way to make Rails more 😎🆒?
 
 Add this gem and you won't regret it.
 
