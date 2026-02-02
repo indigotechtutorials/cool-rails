@@ -4,11 +4,11 @@ Add this gem and you won't regret it.
 
 `bundle add cool_rails`
 
-Include the Rails🔥 module either on your model
+Include the CoolRails module on your model
 
 ```ruby
 class Post < ApplicationRecord
-  include Rails🔥
+  include CoolRails
 end
 ```
 ### How to use
