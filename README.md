@@ -26,7 +26,7 @@ Post.🔢
 @post = Post.👀(id: params[:id])
 
 # Query record
-@post = Post.🔎(title: "This is so much cooler")
+@post = Post.🔎("title = ?", "This is so much cooler")
 
 # Update record
 @post.🛠️(title: "Try out a new title ouu")
